@@ -13,7 +13,7 @@ var axios = require('axios');
 var fs = require('fs'); 
 
 var command = process.argv[2]; 
-var value = process.argv[3]; 
+var value = process.argv.slice(3); 
 
 switch (command) {
     case "concert-this":

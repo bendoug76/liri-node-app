@@ -14,4 +14,4 @@ To use this app:
 
 ![movie-this](images/moviethis.png)
 ![spotify-this-song](images/spotify.png)
-![concert-this](images/concert)
+![concert-this](images/concert.png)
